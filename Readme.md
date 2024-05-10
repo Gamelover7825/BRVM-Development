@@ -1,7 +1,3 @@
-# BriarRose VM Pre-Configured Games
+# BriarRose VM Development
 
-This is a repository for games that are pre-configured for playing on ExaGear-like emulators.
-
-Running the provided games on a physical PC is strictly not recommended. Most of them are designed for playing on Android smartphones using the following emulator:
-
-https://github.com/Gamelover7825/BRVM
+This is a repository for development builds of the BriarRose Virtual Machine and pre-configured games.
